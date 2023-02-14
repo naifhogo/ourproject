@@ -2,6 +2,7 @@ public class Sorter {
     public static void main(String[] args) {
         System.out.println("hi");
         System.out.println("change");
+        System.out.println("hla");
         int[] arr1 = {9,14,3,2,43,11,58,22};  
         selectionSort(arr1);
         System.out.println("After Selection Sort");  
