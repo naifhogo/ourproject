@@ -39,5 +39,10 @@ public class Sorter {
             }
             a[j+1] = temp;
         }
+
+    }
+    public void sort(int [] a){
+        insert(a, 0);
     }
 }
+
